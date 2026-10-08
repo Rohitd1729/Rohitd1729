@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F26B3A,100:C6FF3D&height=200&section=header&text=Rohit%20Dahiphale&fontSize=60&fontColor=151515&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Developer%20%C2%B7%20GenAI%20%26%20Computer%20Vision%20%C2%B7%20Full-Stack&descAlignY=56&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F26B3A,100:C6FF3D&height=200&section=header&text=Rohit%20Dahiphale&fontSize=60&fontColor=151515&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Developer%20%C2%B7%20GenAI%20%C2%B7%20Computer%20Vision%20%C2%B7%20Full-Stack&descAlignY=56&descSize=18" width="100%"/>
 
 <a href="https://rohitd1729.github.io">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=32&duration=2600&pause=800&color=C6FF3D&center=true&vCenter=true&width=600&lines=I+BUILD+AI+AGENTS;I+BUILD+GEN+AI;I+BUILD+VISION+AI;I+BUILD+RAG+APPS;I+BUILD+PRODUCTS" alt="Typing SVG"/>
